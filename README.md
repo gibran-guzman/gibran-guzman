@@ -7,7 +7,7 @@
 
 Building software with ❤️ from Quito, Ecuador to the world.
 
-Ingeniero de software especializado en desarrollo Full Stack. Actualmente trabajo como Especialista de Software en Banco Pichincha, donde construyo soluciones tecnológicas innovadoras para el sector financiero.
+Ingeniero de Software con 3+ años de experiencia en el desarrollo de soluciones financieras escalables y de alto rendimiento en Banco Pichincha. Especializado en el ecosistema Java (Spring Boot) y en interfaces modernas (Angular), combinando arquitectura limpia con prácticas ágiles. Experto en optimizar procesos, implementar sistemas seguros y traducir requisitos complejos en código eficiente que genera valor empresarial. Apasionado por la innovación tecnológica y el impacto de negocio.
 
 ## Encuéntrame en:
 
@@ -60,8 +60,7 @@ Ingeniero de software especializado en desarrollo Full Stack. Actualmente trabaj
 
 | | |
 |:---:|:---:|
-| **58+ Repositorios** | **6+ Lenguajes** |
-| TypeScript, Java, JavaScript, Python, C#, HTML | React, Angular, Spring Boot, Node.js, Docker, AWS |
+| **58+ Repositorios** | **3+ Años en Banco Pichincha** |
 
 **🏦 Sector:** Fintech / Banking
 
