@@ -58,9 +58,13 @@ Soy ingeniero de software apasionado por crear soluciones tecnológicas innovado
 
 ## 📊 Estadísticas
 
+| | |
+|:---:|:---:|
+| **58+ Repositorios** | **6+ Lenguajes** |
+| TypeScript, Java, JavaScript, Python, C#, HTML | React, Angular, Spring Boot, Node.js, Docker, AWS |
+
 <div align="center">
-  <img src="https://pranesh-stats.vercel.app/api?username=gibran-guzman&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://pranesh-stats.vercel.app/top-langs/?username=gibran-guzman&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://komarev.com/ghpvc/?username=gibran-guzman&label=Profile%20Views&color=0e75b5&style=for-the-badge" alt="profile views" />
 </div>
 
 ---
