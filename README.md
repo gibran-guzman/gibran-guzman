@@ -7,7 +7,7 @@
 
 Building software with ❤️ from Quito, Ecuador to the world.
 
-Soy ingeniero de software apasionado por crear soluciones tecnológicas innovadoras. Me especializo en desarrollo Full Stack con experiencia en tecnologías modernas tanto del lado del cliente como del servidor.
+Ingeniero de software especializado en desarrollo Full Stack. Actualmente trabajo como Especialista de Software en Banco Pichincha, donde construyo soluciones tecnológicas innovadoras para el sector financiero.
 
 ## Encuéntrame en:
 
@@ -62,6 +62,8 @@ Soy ingeniero de software apasionado por crear soluciones tecnológicas innovado
 |:---:|:---:|
 | **58+ Repositorios** | **6+ Lenguajes** |
 | TypeScript, Java, JavaScript, Python, C#, HTML | React, Angular, Spring Boot, Node.js, Docker, AWS |
+
+**🏦 Sector:** Fintech / Banking
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gibran-guzman&label=Profile%20Views&color=0e75b5&style=for-the-badge" alt="profile views" />
