@@ -2,8 +2,8 @@
 
 ### Software Engineer | Full Stack Developer 🇪🇨
 
-[![GitHub](https://img.shields.io/github/followers/gibran-guzman?label=Follow&style=social)](https://github.com/gibran-guzman)
-[![Gmail](https://img.shields.io/badge/gjv.guzman11@gmail.com-D14836?style=social&logo=gmail)](mailto:gjv.guzman11@gmail.com)
+<a href="https://github.com/gibran-guzman" target="_blank"><img src="https://img.icons8.com/color/48/github.png" width="30" alt="GitHub"></a>
+<a href="mailto:gjv.guzman11@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="30" alt="Gmail"></a>
 
 Building software with ❤️ from Quito, Ecuador to the world.
 
@@ -11,10 +11,10 @@ Soy ingeniero de software apasionado por crear soluciones tecnológicas innovado
 
 ## Encuéntrame en:
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=white)](https://www.facebook.com/gibranjulyano/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white)](https://www.instagram.com/gibran_julyano)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gibran-guzman/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white)](https://github.com/gibran-guzman)
+<a href="https://www.facebook.com/gibranjulyano/" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" width="40" alt="Facebook"></a>
+<a href="https://www.instagram.com/gibran_julyano" target="_blank"><img src="https://img.icons8.com/color/48/instagram.png" width="40" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/gibran-guzman/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"></a>
+<a href="https://github.com/gibran-guzman" target="_blank"><img src="https://img.icons8.com/color/48/github.png" width="40" alt="GitHub"></a>
 
 ---
 
