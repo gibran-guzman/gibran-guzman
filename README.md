@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png" width="120" align="right" />
-
 # Hola, mi nombre es Gibrán Guzmán 👋
 
 ### Software Engineer | Full Stack Developer 🇪🇨
@@ -8,8 +6,6 @@
 [![Gmail](https://img.shields.io/badge/gjv.guzman11@gmail.com-D14836?style=social&logo=gmail)](mailto:gjv.guzman11@gmail.com)
 
 Building software with ❤️ from Quito, Ecuador to the world.
-
-Building software with ❤️ from Ecuador to the world.
 
 Soy ingeniero de software apasionado por crear soluciones tecnológicas innovadoras. Me especializo en desarrollo Full Stack con experiencia en tecnologías modernas tanto del lado del cliente como del servidor.
 
