@@ -59,8 +59,8 @@ Soy ingeniero de software apasionado por crear soluciones tecnológicas innovado
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-stats-8.vercel.app/api?username=gibran-guzman&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-stats-8.vercel.app/api/top-langs/?username=gibran-guzman&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://pranesh-stats.vercel.app/api?username=gibran-guzman&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://pranesh-stats.vercel.app/top-langs/?username=gibran-guzman&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ---
