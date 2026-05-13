@@ -67,8 +67,3 @@ Soy ingeniero de software apasionado por crear soluciones tecnológicas innovado
   <img src="https://komarev.com/ghpvc/?username=gibran-guzman&label=Profile%20Views&color=0e75b5&style=for-the-badge" alt="profile views" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gibran-guzman&label=Profile%20Views&color=0e75b5&style=for-the-badge" alt="profile views" />
-</div>
