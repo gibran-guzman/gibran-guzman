@@ -65,6 +65,27 @@ Ingeniero de software especializado en desarrollo Full Stack. Actualmente trabaj
 
 **🏦 Sector:** Fintech / Banking
 
+---
+
+## 📜 Certificaciones
+
+**🏗️ Arquitectura & Testing**
+- ISTQB Certified Tester Foundation Level (CTFL 4.0)
+- Principios SOLID y Clean Code
+- Diplomatura DevOps
+- Curso Profesional de Angular
+
+**☁️ Nube & IA**
+- Microsoft Azure Fundamentals
+- Microsoft Azure AI Fundamentals
+- GitHub Copilot Fundamentals
+- Ultimate GIT
+
+**📋 Metodologías**
+- Scrum Foundation Professional Certificate (SFPC)
+- Academia de Agilidad
+- Lean Six Sigma White Belt
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gibran-guzman&label=Profile%20Views&color=0e75b5&style=for-the-badge" alt="profile views" />
 </div>
